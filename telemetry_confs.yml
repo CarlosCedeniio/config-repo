@@ -44,14 +44,14 @@ Protocol:
             PosSMS: 110
             Range: 00;94
             Range_Hex: 00;5E
-            Offset: 0
+            Offset: 32
         Batery_Level:
             Name: Batery Level
             Length: 1
             PosSMS: 111
             Range: 31;99
             Range_Hex: 24;63
-            Offset: 0
+            Offset: 26
         NotifyCycleH:
             Name: Message Frecuency
             Length: 1
